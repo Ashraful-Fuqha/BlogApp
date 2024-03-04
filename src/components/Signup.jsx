@@ -30,7 +30,7 @@ function Signup() {
   return (
     <div className="flex items-center justify-center mx-auto m-5">
         <div className='hidden md:inline-block w-full'>
-                <img src="../public/moonart.svg" alt="" className='w-full h-full'/>
+                <img src="/moonart.svg" alt="" className='w-full h-full'/>
         </div>
         <Container>
             <div className={`mx-auto max-w-[24rem] bg-gray-100 rounded-xl p-10 border border-black/10`}>

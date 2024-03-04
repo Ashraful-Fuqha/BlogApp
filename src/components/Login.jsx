@@ -32,7 +32,7 @@ function Login() {
   return (
     <div className='flex items-center justify-between mx-auto w-full m-5'>
             <div className='hidden md:inline-block w-full'>
-                <img src="../public/cloud.svg" alt="" className='w-full h-full pl-5'/>
+                <img src="/cloud.svg" alt="" className='w-full h-full pl-5'/>
             </div>
             <Container>
                 <div className={`mx-auto max-w-[24rem] self-end bg-gray-100 rounded-xl p-10 border border-black/10`}>

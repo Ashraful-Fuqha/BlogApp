@@ -3,7 +3,7 @@
 @tailwind utilities;
 
 body{
-    background-image: url(../public/celestial.png);
+    background-image: url(/celestial.png);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
